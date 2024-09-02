@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\ariadne.damasceno\lista-sdm-02\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1090947315.index
+3624917321.index
